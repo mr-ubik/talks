@@ -1,0 +1,25 @@
+meta:
+  url: "https://talks.ubik.dev/tf2strikesback"
+  title: "TensorFlow 2.0: TensorFlow Strikes Back"
+  author: "Michele `Ubik` De Simoni"
+  thumbnail:
+  description:
+  sns:
+    - twitter
+slide:
+  loop: false
+  sidebar: true
+  targetBlank: true
+  showIndex: true
+  isVertical: false
+  code:
+    languages:
+      - python
+    plugins:
+      - line-numbers
+    theme: default
+  chart: false
+  math: false
+extends:
+  js:
+  css: style.css

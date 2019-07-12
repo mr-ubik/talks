@@ -1,0 +1,160 @@
+@import "@fortawesome/fontawesome-free/css/fontawesome.min.css";
+@import "@fortawesome/fontawesome-free/css/brands.min.css";
+@import "@fortawesome/fontawesome-free/css/solid.min.css";
+
+.title {
+    background-image: url("images/darth.gif");
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: Hack;
+    color: goldenrod;
+}
+
+.pics-row {
+    display: flex;
+    flex-flow: row;
+}
+
+.p-pic {
+    border-radius: 50%;
+    width: 160px;
+    height: 160px;
+}
+
+/* --- */
+/* Websites */
+
+.websites>.cgrid {
+    display: grid;
+    grid-template-rows: 1fr 1fr;
+    grid-template-columns: 1fr 1fr;
+    margin-top: 10vh;
+}
+
+.websites>.cgrid>.site>p {
+    text-transform: uppercase;
+    letter-spacing: 0.5rem;
+}
+
+.websites>.cgrid>.site {
+    margin-top: 5vh;
+}
+
+/* --- */
+/* anon */
+
+.anon>pre {
+    color: green;
+}
+
+/* --- */
+/* tf1-bg */
+
+.tf1-bg {
+    background-image: url("images/tf1-bg.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+}
+
+/* --- */
+/* peace-bg */
+
+.peace-bg {
+    background-image: url("images/peace.jpg");
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+}
+
+/* --- */
+/* tf2-bg */
+
+.tf2-bg {
+    background-image: url("images/tf2-bg.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+/* --- */
+/* dead kermit */
+
+.dead-kermit-bg {
+    background-image: url("images/kermit-dead.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+/* --- */
+/* panic */
+
+.panic {
+    background-image: url("images/kermit_panic.gif");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.panic>h3 {
+    color: white;
+    background: #0e0e0e;
+    background-blend-mode: difference;
+    margin: auto;
+    padding: 2rem 4rem;
+    opacity: 0.7;
+}
+
+/* --- */
+/* celebration */
+.bg-celebration {
+    background-image: url("images/kermit_jumping.gif");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+}
+
+/* --- */
+/* keras */
+
+.keras {
+    background-image: url("images/kermit_k.gif");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.keras>h3 {
+    margin: auto;
+    background: red;
+    color: white;
+    padding: 2rem 4rem;
+}
+
+/* --- */
+/* pipeline */
+
+.pipeline-bg {
+    background-image: url("images/pipes.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+/* --- */
+/* rocky training */
+
+.rocky-training-bg {
+    background-image: url("images/rocky.gif");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+/* --- */
+/* rocky training */
+
+.beyond-bg {
+    background-image: url("images/universe.gif");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}

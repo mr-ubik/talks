@@ -1,0 +1,11 @@
+{
+    "name": "tensorflow2-tf-strikes-back",
+    "version": "1.0.0",
+    "main": "index.js",
+    "license": "MIT",
+    "dependencies": {
+        "@fortawesome/fontawesome-free": "^5.9.0",
+        "fusuma": "^1.9.2"
+    },
+    "devDependencies": {}
+}
