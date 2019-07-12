@@ -2,12 +2,15 @@
 @import "@fortawesome/fontawesome-free/css/brands.min.css";
 @import "@fortawesome/fontawesome-free/css/solid.min.css";
 
+.gold {
+    color: goldenrod;
+}
+
 .title {
     background-image: url("images/darth.gif");
     background-repeat: no-repeat;
     background-size: cover;
     font-family: Hack;
-    color: goldenrod;
 }
 
 .pics-row {

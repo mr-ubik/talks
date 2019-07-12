@@ -1,5 +1,7 @@
 # TensorFlow 2.0: TensorFlow Strikes Back
 
+## [Slides](http://bit.ly/tf2-strikes-back)
+
 ## Abstract
 
 The talk will showcase the main features of this new TF version that should appease

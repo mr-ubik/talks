@@ -4,6 +4,8 @@ Collection of talks I have given over the years.
 
 ## TensorFlow 2.0: TensorFlow Strikes Back
 
+### [Slides](http://bit.ly/tf2-strikes-back)
+
 ### Events
 
 * EuroPython 2019 - 10/07/2019
